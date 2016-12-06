@@ -3,7 +3,7 @@
 //  HelloWorld
 //
 //  Created by Pawan Karki on 12/4/16.
-//  Copyright © 2016 PawanKarkiApps. All rights reserved.
+//  Copyright © 2016 PawanKarkiApps. All rights reserved...
 //
 
 import UIKit
@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     // action to execute when the Sign In button is clicked
     @IBAction func onSignInButtonClick(_ sender: AnyObject) {
         // change the contents of the label
-        appTitle.text = "Welcome!"
+        appTitle.text = "Welcome to App!"
         // print operation
         print("Inside the button Click action.")
         // This is the comment from VNC viewer
